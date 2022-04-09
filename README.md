@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thcoelho)](https://github.com/thcoelho/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thcoelho&count_private=true&show_icons=true&theme=radical)](https://github.com/thcoelho/github-readme-stats)
 
 <!--
 **thcoelho/thcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
