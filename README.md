@@ -4,4 +4,4 @@ Meu nome é Thiago, sou técnico em eletrônica e futuro economista pela Univers
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thcoelho&count_private=true&show_icons=true&theme=radical)](https://github.com/thcoelho/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thcoelho&layout=compact)](https://github.com/thcoelho/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thcoelho&layout=compact&show_icons=true&theme=radical)](https://github.com/thcoelho/github-readme-stats)
